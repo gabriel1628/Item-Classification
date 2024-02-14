@@ -1,5 +1,7 @@
 # ITEM-CLASSIFICATION
 
+The data are available at this address : https://drive.google.com/drive/folders/1WVf2xV9KDRm4TDKFcs6Ti1EMO9-mtCBR?usp=sharing
+
 **Project Objectives :**
 The main goal of this project is to conduct the feasibility study of an item classification engine, based on textual description and/or images, for automating item categorization. To do this, we are going to :
 - Analyze the dataset by preprocessing product descriptions and images, reducing dimensionality, and performing clustering. The results of dimensionality reduction and clustering will be presented in two-dimensional graphs and confirmed by similarity calculation (e.g., ARI) between real categories and clusters.
