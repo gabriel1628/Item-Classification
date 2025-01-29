@@ -1,6 +1,6 @@
 # ITEM-CLASSIFICATION
 
-The data are available at this address : https://drive.google.com/drive/folders/1WVf2xV9KDRm4TDKFcs6Ti1EMO9-mtCBR?usp=sharing
+The data are available at [this address](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip).
 
 **Project Objectives :**
 The main goal of this project is to conduct the feasibility study of an item classification engine, based on textual description and/or images, for automating item categorization. To do this, we are going to :
